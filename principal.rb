@@ -39,7 +39,7 @@ matriza, matrizb = data.split(/\n\s*\n+/)
 	   end
 	 end
 
-    puts "\n El resultado de la suma es :"
+    puts "\nEl resultado de la multiplicación es :"
       mproducto.each do |fila|
         puts fila.join(" ")
       end
