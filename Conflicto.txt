@@ -1,0 +1,8 @@
+git merge Rbn.Rivero
+Auto-merging principal.rb
+CONFLICT (add/add): Merge conflict in principal.rb
+Auto-merging matriz.txt
+CONFLICT (add/add): Merge conflict in matriz.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+Hicimos un pull de la rama master, eliminamos las lineas que estaban repetidas en el mismo fichero solucionando asi el error, guardamos estos cambio y tras esto hicimos un commit final y un push origin master para añadir los ficheros ya corregidos a la rama master.
